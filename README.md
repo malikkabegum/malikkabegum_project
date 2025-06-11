@@ -12,12 +12,9 @@ website:
 
 tags: [brainhack, ADHD, neuroimaging, connectivity]
 
+# Summarize your project in < ~75 words. This description will appear at the top of your page and on the list page with other projects..
+
 summary: "This project examines dynamic functional connectivity (dFC) within the Default Mode Network (DMN) in children with ADHD using the ADHD-200 dataset. Key methods of analyses include time-varying correlation, clustering of connectivity states, and group comparisons to understand how brain network dynamics differ in ADHD"
-
-
-image: ""
----
-<!-- This is an html comment and this won't appear in the rendered page. You are now editing the "content" area, the core of your description. Everything that you can do in markdown is allowed below. We added a couple of comments to guide your through documenting your progress. -->
 
 ## Project definition
 
@@ -31,25 +28,22 @@ Resting-state fMRI data allows us to study intrinsic brain network connectivity 
 
 The data is from the publicly available ADHD-200 dataset (http://fcon_1000.projects.nitrc.org/indi/adhd200/) sample, using preposed time series data from the Athena pipeline and focusing on DMN-related ROIs based on the AAL atlas. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PTYs_JFKsHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Tools
 
 The "project template" project will rely on the following technologies:
- * Markdown, to structure the text.
+ * Markdown, to structure and format the project description text.
  * The Hugo website framework which is used by the BHS website. This makes it possible to easily add the markdown project description to the website.
  * Adding the project to the website relies on github, through pull requests.
 
 ### Data
 
-Ultimately, the project template will be used by all BHS participants. Data on the different projects will be aggregareted on the [following page](https://psy6983.brainhackmtl.org/project). This will serve as an additional example gallery in the years to come for future brainhack school students. Many reports from [BHS 2020](https://github.com/brainhack-school2020) already used this template.
+The ADHD-200 dataset was used for this project. Ultimately, this project template will be used by all BrainHack School (BHS) participants. Data from various projects will be aggregated on the following page, creating an example gallery for future BrainHack School students. 
 
 ### Deliverables
 
 At the end of this project, we will have:
- - The current markdown document, completed and revised.
- - A gallery of the student projects at Brainhack 2020.
- - Instructions on the website about how to submit a pull request to the [brainhack school website](https://github.com/PSY6983-2021) in order to add the project description to the website.
+ - a completed and revised markdown document detailing the dynamic functional connectivity analysis of the Default Mode Network in ADHD using the ADHD-200 dataset. 
+- a gallery entry showcasing this project alongside other student projects from BrainHack 2025.
 
 ## Results
 
