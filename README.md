@@ -83,4 +83,4 @@ The repository of this project can be found here (https://github.com/malikkabegu
 
 ## Conclusion and acknowledgement
 
-This project highlights altered dynamic network behaviour in ADHD, especially within the core DMN. It adds to growing evidence that temporal dynamic-not just static connectivity-may underlie attentional difficulties. Thanks to the BrainHack School Singapore and Taiwan teaching team, Prof Chen, Dr. Goh and the supportive TAs for guidance throughout. 
+This project highlights altered dynamic network behaviour in ADHD, especially within the core DMN. It adds to growing evidence that temporal dynamic-not just static connectivity-may underlie attentional difficulties. Thanks to the BrainHack School Singapore and Taiwan teaching team, especially Prof Chen, Dr. Goh for their invaluable support and guidance and the supportive TAs for guidance throughout. 
