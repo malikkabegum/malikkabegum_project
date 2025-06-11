@@ -12,8 +12,6 @@ website:
 
 tags: [brainhack, ADHD, neuroimaging, connectivity]
 
-# Summarize your project in < ~75 words. This description will appear at the top of your page and on the list page with other projects..
-
 summary: "This project examines dynamic functional connectivity (dFC) within the Default Mode Network (DMN) in children with ADHD using the ADHD-200 dataset. Key methods of analyses include time-varying correlation, clustering of connectivity states, and group comparisons to understand how brain network dynamics differ in ADHD"
 
 ## Project definition
