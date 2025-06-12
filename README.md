@@ -84,7 +84,7 @@ The repository of this project can be found here (https://github.com/malikkabegu
 ## Data Availability
 
 The full set of `.1D` files can be accessed here:  
-[Google Drive Link to resting-state fMRI files](https://drive.google.com/)
+[Google Drive Link to resting-state fMRI files]([https://drive.google.com/](https://drive.google.com/drive/folders/1DgAKW1trXH-x_BksVCKFIddXVBCJ8vjU?usp=drive_link)
 
 Note: Large raw neuroimaging data are hosted externally due to GitHub size limits.
 
